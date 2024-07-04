@@ -20,7 +20,7 @@ menu:
     
 params:
     description: "This website hosts Jérémy Do Nascimento Miguel's research papers, course material, curriculum vitae, and contact information."
-    author: Pascal Michaillat
+    author: Jérémy Do Nascimento Miguel
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
