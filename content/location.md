@@ -25,4 +25,4 @@ Univ. Bordeaux, Bordeaux School of Economics UMR - CNRS 6060,
 
 #### Office location
 
-<iframe src="[https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d203668.66166295038!2d-122.06180807362631!3d37.09743194165668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e4174e5b57475%3A0x97880f47ac591627!2sDepartment%20of%20Economics!5e0!3m2!1sen!2sus!4v1686026390720!5m2!1sen!2sus](https://maps.app.goo.gl/jBkuKCKMrTiFkCxB6)" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d64057.65419326537!2d-0.6942988351839996!3d44.80169600516863!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd54d9f89765a5b1%3A0x9161c3c91e07a213!2sBordeaux%20School%20of%20Economics%20(BSE)%20-%20Universit%C3%A9%20de%20Bordeaux!5e0!3m2!1sfr!2sfr!4v1703670035787!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
