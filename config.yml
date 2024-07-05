@@ -1,17 +1,14 @@
 baseURL: "https://jdnmiguel.github.io" 
 title: Jérémy Do Nascimento Miguel
-paginate: 20
+paginate: 10
 theme: PaperMod
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
-
 taxonomies:
     tag: tags
-
 menu:
     main:
-        - name: Published papers
+        - name: Papers
           url: /papers/
           weight: 1
         - name: Ongoing work
@@ -24,10 +21,10 @@ menu:
 params:
     description: "This website hosts Jérémy Do Nascimento Miguel's research papers, course material, curriculum vitae, and contact information."
     author: Jérémy Do Nascimento Miguel
-   # googleAnalyticsID: "G-97G4MZ4061"
-   DateFormat: "January 2006"
-    defaultTheme: auto
-    hideFooter: false
+    googleAnalyticsID: "G-97G4MZ4061"
+    DateFormat: "January 2006"
+    defaultTheme: auto 
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -36,7 +33,6 @@ params:
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
     ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
@@ -48,13 +44,13 @@ params:
     profileMode:
           enabled: true
           title: Jérémy Do Nascimento Miguel
-          subtitle: " I am a Ph.D. student in Economics at the Univ. of Bordeaux. I will defend in Ocobter 2024. My research focuses on agricultural transformation, agricultural value-chain, and social protection in East Africa. I was a Fulbright visiting scholar at UC - Berkeley in 2022-2023, and at the University of Georgia in fall 2021."
+          subtitle: " I am a Ph.D. student in Economics at the Univ. of Bordeaux. **I will defend in October 2024.** My research focuses on agricultural transformation, agricultural value-chain, and social protection in East Africa. I was a Fulbright visiting scholar at UC - Berkeley in 2022-2023, and at the University of Georgia in fall 2021."
           imageUrl: "/picture.JPG"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Jérémy Do Nascimento Miguel
           buttons:
-            - name: Research
+            - name: Publised papers
               url: /papers/
             - name: Ongoing projects
               url: /working/
@@ -78,7 +74,6 @@ params:
           url : https://x.com/j_donami?lang=en
         - name: Linkedin
           url : https://www.linkedin.com/in/jérémy-do-nascimento-miguel-08626a2a6/
-
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
@@ -89,7 +84,6 @@ params:
       text: "Jérémy Do Nascimento Miguel"
       icon: /favicon.ico
       iconHeight: 18
-
 markup:
     goldmark:
         renderer:
