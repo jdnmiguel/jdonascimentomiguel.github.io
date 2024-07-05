@@ -26,7 +26,7 @@ params:
     author: Jérémy Do Nascimento Miguel
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: auto 
     hideFooter: true
     disableThemeToggle: false
     ShowShareButtons: false
@@ -73,7 +73,7 @@ params:
           url: https://github.com/jdnmiguel
         - name: Orcid
           url: https://orcid.org/0000-0002-6275-388X
-        - name: X 
+        - name: x 
           url : https://x.com/j_donami?lang=en
         - name: Linkedin
           url : https://www.linkedin.com/in/jérémy-do-nascimento-miguel-08626a2a6/
