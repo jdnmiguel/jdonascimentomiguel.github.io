@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Jérémy Do Nascimento Miguel
-          subtitle: " I am a Ph.D. student in Economics at Bordeaux School of Economics (Univ. Bordeaux). **I will defend in October 2024.** My research focuses on agricultural transformation, agricultural value-chain, and social protection in East Africa. I was a Fulbright visiting scholar at UC - Berkeley in 2022-2023, and at the University of Georgia in fall 2021."
+          subtitle: " I am a Ph.D. student in Economics at the Univ. of Bordeaux. **I will defend in October 2024.** My research focuses on agricultural transformation, agricultural value-chain, and social protection in East Africa. I was a Fulbright visiting scholar at UC - Berkeley in 2022-2023, and at the University of Georgia in fall 2021."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -65,14 +65,14 @@ params:
           url: /jdnm_cv.pdf
         - name: Email
           url: mailto:jdnmiguel@u-bordeaux.fr
-        - name: Location
-          url: /location/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=bF2SPvAAAAAJ&hl=en&oi=ao
         - name: GitHub
           url: https://github.com/jdnmiguel
         - name: Orcid
           url: https://orcid.org/0000-0002-6275-388X
+        - name: Location
+          url: /location/
         - name: x 
           url : https://x.com/j_donami?lang=en
         - name: Linkedin
