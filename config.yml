@@ -1,6 +1,6 @@
 baseURL: "https://jdnmiguel.github.io" 
 title: Jérémy Do Nascimento Miguel
-paginate: 20
+paginate: 10
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -28,7 +28,7 @@ params:
     DateFormat: "January 2006"
     defaultTheme: auto 
     hideFooter: true
-    disableThemeToggle: false
+    disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -73,7 +73,7 @@ params:
           url: https://orcid.org/0000-0002-6275-388X
         - name: Location
           url: /location/
-        - name: x 
+        - name: Twitter
           url : https://x.com/j_donami?lang=en
         - name: Linkedin
           url : https://www.linkedin.com/in/jérémy-do-nascimento-miguel-08626a2a6/
