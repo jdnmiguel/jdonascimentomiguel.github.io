@@ -26,12 +26,24 @@ params:
     author: Jérémy Do Nascimento Miguel
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
-  ShowBreadCrumbs: true
-  ShowReadingTime: true
-  ShowPostNavLinks: true
-  ShowCodeCopyButtons: true
-  hideSummary: false
-  hideFooter: false
+ defaultTheme: auto 
+    hideFooter: false
+    disableThemeToggle: false
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
     profileMode:
           enabled: true
           title: Jérémy Do Nascimento Miguel
