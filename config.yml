@@ -1,6 +1,6 @@
 baseURL: "https://jdnmiguel.github.io" 
 title: Jérémy Do Nascimento Miguel
-paginate: 10
+paginate: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -11,7 +11,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
+        - name: Published papers
           url: /papers/
           weight: 1
         - name: Ongoing work
@@ -25,10 +25,10 @@ params:
     description: "This website hosts Jérémy Do Nascimento Miguel's research papers, course material, curriculum vitae, and contact information."
     author: Jérémy Do Nascimento Miguel
     googleAnalyticsID: "G-97G4MZ4061"
-    DateFormat: "January 2006"
- defaultTheme: auto 
+   DateFormat: "January 2006"
+    defaultTheme: light
     hideFooter: false
-    disableThemeToggle: false
+    disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -36,6 +36,7 @@ params:
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
     ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
