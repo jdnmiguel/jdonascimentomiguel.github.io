@@ -70,6 +70,10 @@ params:
           url: https://github.com/jdnmiguel
         - name: Orcid
           url: https://orcid.org/0000-0002-6275-388X
+        - name: X 
+          url : https://x.com/j_donami?lang=en
+        - name: Linkedin
+          url : https://www.linkedin.com/in/jérémy-do-nascimento-miguel-08626a2a6/
 
     assets:
         disableHLJS: true
